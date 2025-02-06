@@ -1,0 +1,20 @@
+{
+  "name": "comment-widget",
+  "organization": "alejandramora95",
+  "organizationUrl": "https://github.com/alejandramora95",
+  "packageUrl": "https://drive.google.com/file/d/1kFm3w5y-UGpWzQopiH_9jzRs_iGY9gyL/view?usp=sharing",
+  "privacyPolicyUrl": "https://docs.google.com/document/d/1VXnCD0WrS9fU5b80kxHNPhloUxnNNlgOfsPT5h2Z-Pg/view?usp=sharing",
+  "termsOfServiceUrl": "https://docs.google.com/document/d/1mQPUpgfZv6TKSP7_xhWhmeEtrnY15Fga72fHJom3Qz0/view?usp=sharing",
+  "supportUrl": "https://docs.google.com/document/d/1xHc40oZcyODO2aaCbZbLn_E3evQAweYoWgggWTp5aQY/view?usp=sharing",
+  "devMode": false,
+  "logoUrl": "https://storage.googleapis.com/rentabilidad_gcp_obs/logo.jpg",
+  "components": [
+    {
+      "id": "comment-widget",
+      "name": "Widget de Comentarios",
+      "description": "Permite a los usuarios agregar comentarios a los datos.",
+      "iconUrl": "https://storage.googleapis.com/rentabilidad_gcp_obs/icon.jpg",
+      "script": "https://storage.googleapis.com/rentabilidad_gcp_obs/comment-widget.js"
+    }
+  ]
+}
